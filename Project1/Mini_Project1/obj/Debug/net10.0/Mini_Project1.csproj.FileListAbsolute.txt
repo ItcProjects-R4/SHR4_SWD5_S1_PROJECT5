@@ -1,0 +1,14 @@
+D:\DEPI PROGECTS\DEPI\Mini_Project1\bin\Debug\net10.0\Mini_Project1.exe
+D:\DEPI PROGECTS\DEPI\Mini_Project1\bin\Debug\net10.0\Mini_Project1.deps.json
+D:\DEPI PROGECTS\DEPI\Mini_Project1\bin\Debug\net10.0\Mini_Project1.runtimeconfig.json
+D:\DEPI PROGECTS\DEPI\Mini_Project1\bin\Debug\net10.0\Mini_Project1.dll
+D:\DEPI PROGECTS\DEPI\Mini_Project1\bin\Debug\net10.0\Mini_Project1.pdb
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\Mini_Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\Mini_Project1.AssemblyInfoInputs.cache
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\Mini_Project1.AssemblyInfo.cs
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\Mini_Project1.csproj.CoreCompileInputs.cache
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\Mini_Project1.dll
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\refint\Mini_Project1.dll
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\Mini_Project1.pdb
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\Mini_Project1.genruntimeconfig.cache
+D:\DEPI PROGECTS\DEPI\Mini_Project1\obj\Debug\net10.0\ref\Mini_Project1.dll
