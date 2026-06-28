@@ -272,11 +272,11 @@ The Doctor is responsible for examining patients, updating medical records, mana
 
 | Name | Role | GitHub |
 | :--- | :--- | :--- |
-| **Anas Mohammed** | Team Leader & Backend Developer | [@anas-mohammed1712](https://github.com/anas-mohammed1712) |
-| **Yousef Mohamed** | Backend Developer | [@ym853840-svg](https://github.com/ym853840-svg) |
-| **Asmaa Ashraf** | Database Administrator | [@AsmaaAshraf733](https://github.com/AsmaaAshraf733) |
-| **Ziad Nabil** | Frontend Developer | [@nbylzyad11-svg](https://github.com/nbylzyad11-svg) |
-| **Ahmed Ehab** | Documentation & Testing | [@Ahmed-Ehab-44](https://github.com/Ahmed-Ehab-44) |
+| **Anas Mohammed** | Team Leader & Backend Developer 1 & Documentation | [@anas-mohammed1712](https://github.com/anas-mohammed1712) |
+| **Yousef Mohamed** | Backend Developer 2 & Documentation | [@ym853840-svg](https://github.com/ym853840-svg) |
+| **Asmaa Ashraf** | Database Administrator & Documentation | [@AsmaaAshraf733](https://github.com/AsmaaAshraf733) |
+| **Ziad Nabil** | Frontend Developer 1 & Documentation | [@nbylzyad11-svg](https://github.com/nbylzyad11-svg) |
+| **Ahmed Ehab** | Frontend Developer 2 & Testing | [@Ahmed-Ehab-44](https://github.com/Ahmed-Ehab-44) |
 
 ---
 
