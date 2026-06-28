@@ -4,11 +4,14 @@
 
 > A modern web application designed to streamline clinic operations, improve patient experience, and manage healthcare records efficiently.
 
-🌐 **Live Demo:** [Smart Clinic Healthcare](https://agent-6a35b62f67d5ad83e12--smartclinichealthcare.netlify.app/)
+⚡ **Live Demo (Vercel):**  
+[Smart Clinic Healthcare](https://smart-clinic-1o6qv1mu2-anas-mohammed1712s-projects.vercel.app/)
 
-🎥 **Project Demo Video:** [Watch the Demo](https://drive.google.com/file/d/1gbyawUBlIIJyfVfq1xExD6Z8d7MeE4UB/view?usp=sharing)
----
+🌐 **Live Demo (Netlify):**  
+[Smart Clinic Healthcare](https://agent-6a35b62f67d5ad83e12--smartclinichealthcare.netlify.app/)
 
+🎥 **Project Demo Video:**  
+[Watch the Demo](https://drive.google.com/file/d/1gbyawUBlIIJyfVfq1xExD6Z8d7MeE4UB/view?usp=sharing)
 ##  Table of Contents
 - [About The Project](#-about-the-project)
 - [Key Features](#-key-features)
