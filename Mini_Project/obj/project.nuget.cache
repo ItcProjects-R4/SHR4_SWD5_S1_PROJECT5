@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WCh0Aw3Lzew=",
+  "dgSpecHash": "dcK3HI830PM=",
   "success": true,
-  "projectFilePath": "E:\\electronics\\ITC\\Mini project\\Mini_Project1\\Mini_Project1.csproj",
+  "projectFilePath": "E:\\electronics\\ITC\\DEPI Project\\Smart-Clinic\\SHR4_SWD5_S1_PROJECT5\\Mini_Project\\Mini_Project1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\المهندس 2\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\المهندس 2\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

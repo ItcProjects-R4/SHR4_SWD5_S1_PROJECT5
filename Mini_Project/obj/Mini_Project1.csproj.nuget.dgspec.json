@@ -1,29 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "E:\\electronics\\ITC\\Mini project\\Mini_Project1\\Mini_Project1.csproj": {}
+    "E:\\electronics\\ITC\\DEPI Project\\Smart-Clinic\\SHR4_SWD5_S1_PROJECT5\\Mini_Project\\Mini_Project1.csproj": {}
   },
   "projects": {
-    "E:\\electronics\\ITC\\Mini project\\Mini_Project1\\Mini_Project1.csproj": {
+    "E:\\electronics\\ITC\\DEPI Project\\Smart-Clinic\\SHR4_SWD5_S1_PROJECT5\\Mini_Project\\Mini_Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\electronics\\ITC\\Mini project\\Mini_Project1\\Mini_Project1.csproj",
+        "projectUniqueName": "E:\\electronics\\ITC\\DEPI Project\\Smart-Clinic\\SHR4_SWD5_S1_PROJECT5\\Mini_Project\\Mini_Project1.csproj",
         "projectName": "Mini_Project1",
-        "projectPath": "E:\\electronics\\ITC\\Mini project\\Mini_Project1\\Mini_Project1.csproj",
+        "projectPath": "E:\\electronics\\ITC\\DEPI Project\\Smart-Clinic\\SHR4_SWD5_S1_PROJECT5\\Mini_Project\\Mini_Project1.csproj",
         "packagesPath": "C:\\Users\\المهندس 2\\.nuget\\packages\\",
-        "outputPath": "E:\\electronics\\ITC\\Mini project\\Mini_Project1\\obj\\",
+        "outputPath": "E:\\electronics\\ITC\\DEPI Project\\Smart-Clinic\\SHR4_SWD5_S1_PROJECT5\\Mini_Project\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\المهندس 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\المهندس 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -38,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.Data.SqlClient": {
@@ -69,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
