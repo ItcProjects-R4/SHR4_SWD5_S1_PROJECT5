@@ -4,9 +4,9 @@
 
 > A modern web application designed to streamline clinic operations, improve patient experience, and manage healthcare records efficiently.
 
- **Live Website:** [Smart Clinic Healthcare](https://agent-6a35b62f67d5ad83e12--smartclinichealthcare.netlify.app/)
- **Project Explanation Video:** [ًWatch now](https://drive.google.com/file/d/1gbyawUBlIIJyfVfq1xExD6Z8d7MeE4UB/view?usp=sharing)
+🌐 **Live Demo:** [Smart Clinic Healthcare](https://agent-6a35b62f67d5ad83e12--smartclinichealthcare.netlify.app/)
 
+🎥 **Project Demo Video:** [Watch the Demo](https://drive.google.com/file/d/1gbyawUBlIIJyfVfq1xExD6Z8d7MeE4UB/view?usp=sharing)
 ---
 
 ##  Table of Contents
